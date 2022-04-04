@@ -1,6 +1,6 @@
-### Hey there 👋
-- 🔭 I’m currently working on landing an internship
-- 🌱 I’m currently learning front-end development
+### Oii tudo bom?👋 Eu sou o Rafael Saraiva
+- 🔭 Estou em busca de uma oportunidade de estágio
+- 🌱 Atualmente estudando front-end
 
 <div>  
   <a href="https://beacons.ai/rafael-saraiva-mielczarski">
