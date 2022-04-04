@@ -1,6 +1,4 @@
 ### Oii tudo bom?👋 Eu sou o Rafael Saraiva
-- 🔭 Estou em busca de uma oportunidade de estágio
-- 🌱 Atualmente estudando front-end
 
 <div>  
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=rafael-saraiva-mielczarski&show_icons=true&theme=tokyonight">
