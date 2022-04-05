@@ -1,4 +1,4 @@
-### Oii tudo bom?👋 Eu sou o Rafael Saraiva
+### Oii tudo bom?👋 Pode me chamar de Rafa
 - 🔭 Estou em busca de uma oportunidade de estágio
 - 🌱 Atualmente estudando front-end
 
