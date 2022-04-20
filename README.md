@@ -1,6 +1,7 @@
 ### Oii tudo bom?👋 Pode me chamar de Rafa!
 - 🔭 Estou em busca de uma oportunidade de estágio
 - 🌱 Atualmente estudando front-end
+- https://rafael-saraiva-mielczarski.github.io/Portfolio/
 
 <div>  
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rafael-saraiva-mielczarski&show_icons=true&theme=tokyonight">
