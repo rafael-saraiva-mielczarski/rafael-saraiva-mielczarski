@@ -4,8 +4,8 @@
 - Meu Site: https://rafael-saraiva-mielczarski.github.io/Portfolio/
 
 <div>  
-  <img width="180em" src="https://github-readme-stats.vercel.app/api?username=rafael-saraiva-mielczarski&show_icons=true&theme=tokyonight">
-  <img width="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-saraiva-mielczarski&lang_count=16&layout=compact&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rafael-saraiva-mielczarski&show_icons=true&theme=tokyonight">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-saraiva-mielczarski&lang_count=16&layout=compact&theme=tokyonight" />
 </div>
 
 <div style="display: inline-blcok"><br>
