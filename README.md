@@ -1,6 +1,6 @@
 ### Oii tudo bom?👋 Pode me chamar de Rafa!
-- 🔭 Atualmente estou estagiando na IBM
-- 🌱 Atualmente estudando front-end
+- 🔭 Estagiário de Desenvolvimento na IBM
+- 🌱 Estudando front-end
 - Meu Site: https://rafael-saraiva-mielczarski.github.io/Portfolio/
 
 <div>  
