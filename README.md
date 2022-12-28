@@ -2,7 +2,7 @@
 -  Software Engineer intern at IBM
 -  Front-End development student and enthusiast
 
--  My Web Page: https://rafael-saraiva-mielczarski.github.io/Portfolio/
+-  My Portfolio: https://rafael-saraiva-mielczarski.github.io/React-Portfolio/
 
 <div>  
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rafael-saraiva-mielczarski&show_icons=true&theme=tokyonight">
