@@ -1,4 +1,4 @@
-### Hey folks, how is it going?👋 You can call me Rafa
+### Hey folks, how is it going?👋 
 -  Software Engineer intern at IBM
 -  Front-End development student and enthusiast
 
