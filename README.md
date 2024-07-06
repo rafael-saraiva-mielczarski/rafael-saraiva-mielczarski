@@ -1,5 +1,5 @@
 ### Hey folks, how is it going?👋 
--  Software Engineer intern at IBM
+-  Software Engineer intern at Vent Digital
 -  Front-End development student and enthusiast
 
 -  My Portfolio: https://portfolio-rafael-saraiva-mielczarski.vercel.app/
