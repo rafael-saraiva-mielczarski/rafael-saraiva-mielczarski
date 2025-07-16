@@ -1,6 +1,6 @@
 ### Hey folks, how is it going?👋 
--  Software Engineer intern at Vent Digital
--  Front-End development student and enthusiast
+-  Software Engineer at Instituto de Pesquisa Eldorado
+-  .NET Backend Developer
 
 -  My Portfolio: https://portfolio-rafael-saraiva-mielczarski.vercel.app/
 <div align="center"> 
